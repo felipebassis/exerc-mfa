@@ -2,7 +2,7 @@
 Instruções para desenvolvimento de um projeto simples para MFA
 
 ## Proposta
-Esse projeto visa criar uma API que forneça endpoints para login utilizando o processo de Múltiplo Fator de Autenticação, que visa minimizar acessos não autorizados. A idéia é a princípio permitir o uso somente de email para envio do código MFA.\
+Esse projeto visa criar uma API que forneça endpoints para login utilizando o processo de Múltiplo Fator de Autenticação, que visa minimizar acessos não autorizados. A idéia é a princípio permitir o uso somente de email para envio do código MFA.
 
 ## Requisitos
 A cerca das funcionalidades:
